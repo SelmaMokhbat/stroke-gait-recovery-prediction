@@ -1,0 +1,7 @@
+Patient: 01-P-AR
+RDV: RDV2
+Condition: Bare_pref
+
+FG (knee max swing): 64.096 deg
+FH (hip  max swing): 35.711 deg
+EH (hip  min stance): -22.548 deg

@@ -1,0 +1,16 @@
+QC SUMMARY
+==========
+Rows: 16940 | Cols: 7
+
+Missing values (top 20):
+- Std: 552 (3.26%)
+- Patient: 0 (0.0%)
+- RDV: 0 (0.0%)
+- File: 0 (0.0%)
+- Parameter: 0 (0.0%)
+- Mean: 0 (0.0%)
+- Unit: 0 (0.0%)
+
+Outliers (IQR) top 20:
+- Std: 1198
+- Mean: 691
